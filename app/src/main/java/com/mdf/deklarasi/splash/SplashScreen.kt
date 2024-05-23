@@ -58,6 +58,15 @@ class SplashScreen : AppCompatActivity() {
             "tv_1, tv_2, tv_3, tv_4, tv_5, tv_6, tv_7, tv_8, tv_9, tv_10, tv_11, tv_12, tv_13, tv_14, tv_15, tv_16"
         )
 
+        val ronaldoDeclaration = Declaration(
+            "declaration_ronaldo",
+            "Ronaldo Declaration",
+            resources.getString(R.string.dek_ronaldo),
+            false,
+            "layout_dek_ronaldo",
+            "tv_1, tv_2, tv_3, tv_4, tv_5, tv_6, tv_7, tv_8, tv_9, tv_10, tv_11, tv_12, tv_13, tv_14, tv_15, tv_16"
+        )
+
         val kendalikanAtmosferTiapPagi = Declaration(
             "kendalikan_atmosfer_setiap_pagi",
             "Deklarasi Kendalikan Atmosfer Setiap Pagi",
@@ -1144,6 +1153,7 @@ class SplashScreen : AppCompatActivity() {
 
         val declarationList = arrayListOf<Declaration>()
         declarationList.add(mdfDeclaration)
+        declarationList.add(ronaldoDeclaration)
         declarationList.add(bahteraDelcaration)
         declarationList.add(tembokPerlindunganDeclaration)
         declarationList.add(kendalikanAtmosferTiapPagi)

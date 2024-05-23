@@ -3,7 +3,7 @@
 
     <string name="welcome">Selamat Datang</string>
 
-    <string name="copyrights">Benih MDF 2020 V3.0 (Untuk Kalangan Sendiri)</string>
+    <string name="copyrights">Benih MDF 2024 V3.0 (Untuk Kalangan Sendiri)</string>
 
     <string name="declaration">Deklarasi</string>
     <string name="fav_declaration">Deklarasi Favorit</string>
@@ -29,6 +29,14 @@
 
     <string name="search_library">Cari Pengajaran</string>
     <string name="search_library_not_found">Pengajaran yang kami cari gak ketemu</string>
+
+    <string name="dek_nuel">
+       <p>HAIIII NUEL</p>
+    </string>
+
+    <string name="dek_ronaldo">
+       <p>Hai Hai</p>
+    </string>
 
     <string name="dek_sma_bahtera">
         &lt;p>Di dalam nama Tuhan Yesus Kristus, kami sapu
@@ -140,7 +148,7 @@ sempurna. Dalam nama Tuhan Yesus Kristus.&lt;/p>
     </string>
 
     <string name="dek_sma_mdf">
-        &lt;h4>&lt;font color=#F25F5C>1. SAPU BERSIH &lt;/h4>&lt;/font>
+        &lt;h4>&lt;font color=#F25F5C>1. SAPU BERSIH&lt;/h4>&lt;/font>
 &lt;p>Kami mau sapu bersih semua yang bukan dari
 Tuhan dan kami angkat 35 Perjanjian Tuhan
 berlaku atas hidup kami.&lt;/p>
